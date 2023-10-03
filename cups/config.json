@@ -39,5 +39,8 @@
         "keyfile": "str",
         "require_ssl": "bool"
     },
-    "image": "rschoebel/{arch}-addon-cups"
+    "image": "rschoebel/{arch}-addon-cups",
+    "privileged": [
+        "NET_ADMIN"
+    ]
 }
