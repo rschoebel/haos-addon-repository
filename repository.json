@@ -1,5 +1,5 @@
 {
-    "name": "Nicholas' Addon Repository",
-    "url": "https://github.com/ncarr/addon-repository",
-    "maintainer": "Nicholas Carr"
+    "name": "Homeassistant adddon Repository",
+    "url": "https://github.com/rschoebel/haos-addon-repository",
+    "maintainer": "R. Schoebel"
 }
